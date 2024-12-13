@@ -8,6 +8,9 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
+# 网站图标Favicon
+favicon: /assets/img/favicons/favicon.png
+
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Shanghai
 
@@ -102,7 +105,7 @@ avatar: /assets/img/favicons/Marooned.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/favicons/Marooned.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
